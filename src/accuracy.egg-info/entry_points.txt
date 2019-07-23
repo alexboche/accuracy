@@ -1,0 +1,3 @@
+[console_scripts]
+accuracy_console_script = accuracy.cli:cli
+

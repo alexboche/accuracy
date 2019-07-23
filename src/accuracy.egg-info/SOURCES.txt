@@ -1,0 +1,12 @@
+README.rst
+src/accuracy/__init__.py
+src/accuracy/__main__.py
+src/accuracy/app.py
+src/accuracy/cli.py
+src/accuracy.egg-info/PKG-INFO
+src/accuracy.egg-info/SOURCES.txt
+src/accuracy.egg-info/dependency_links.txt
+src/accuracy.egg-info/entry_points.txt
+src/accuracy.egg-info/not-zip-safe
+src/accuracy.egg-info/requires.txt
+src/accuracy.egg-info/top_level.txt

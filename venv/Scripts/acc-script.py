@@ -1,0 +1,12 @@
+#!c:\users\alex\programing\accuracy_project\venv\scripts\python.exe
+# EASY-INSTALL-ENTRY-SCRIPT: 'accuracy','console_scripts','acc'
+__requires__ = 'accuracy'
+import re
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
+    sys.exit(
+        load_entry_point('accuracy', 'console_scripts', 'acc')()
+    )
